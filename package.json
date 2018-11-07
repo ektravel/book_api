@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/ektravel/book_api#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "gulp": "^3.9.1",
-    "gulp-nodemon": "^2.4.1"
+    "gulp-nodemon": "^2.4.1",
+    "mongodb": "^3.1.9",
+    "mongoose": "^5.3.10"
   }
 }
